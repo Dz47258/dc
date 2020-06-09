@@ -10,6 +10,7 @@ public class Dccontroller {
 	public String dc() {
 		System.out.println("我来了");
 		System.out.println("0.0");
+		System.out.println("嘿嘿嘿");
 		return "Anan.html";
 	}
 
